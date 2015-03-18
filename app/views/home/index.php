@@ -1,1 +1,2 @@
-Hello World. Furnace is running!
+Hello World. Furnace is running!<br>
+<?=$data['username']?>

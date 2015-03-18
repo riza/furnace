@@ -13,7 +13,7 @@ class Home extends Controller {
 
 		*/
 
-		$this->view('home/index');
+		$this->view('home/index',['username' => User::find(1)]);
 
 	}
 
