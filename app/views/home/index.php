@@ -1,0 +1,1 @@
+madafaka. <?=$data['name']?>
