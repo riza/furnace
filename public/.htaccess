@@ -1,7 +1,7 @@
 Options -MultiViews
 RewriteEngine On
 
-RewriteBase /codefurnace/public
+RewriteBase /furnace/public
 
 RewriteCond %{REQUES_FILENAME} !-d
 RewriteCond %{REQUES_FILENAME} !-f
