@@ -1,1 +1,1 @@
-madafaka. <?=$data['name']?>
+Hello World. Furnace is running!
